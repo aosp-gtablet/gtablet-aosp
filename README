@@ -1,0 +1,8 @@
+To initialize your local repository using the trees, use a command like this:
+
+repo init -u git://github.com/kornyone/gtablet-aosp.git
+
+Then to sync up:
+
+repo sync
+
