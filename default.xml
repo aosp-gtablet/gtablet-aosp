@@ -174,7 +174,7 @@
   <project path="sdk" name="platform/sdk" revision="tools_r7" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
   <project path="system/core" name="aosp-gtablet/gtablet_platform_system_core"  remote="aosp-gtablet" />
-  <project path="system/extras" name="aosp-gtablet/gtablet_android_system_extras"  remote="aosp-gtablet"  />
+  <project path="system/extras" name="aosp-gtablet/gtablet_android_system_extras"  remote="aosp-gtablet" revision="gingerbread"  />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="platform/system/vold" />
