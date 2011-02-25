@@ -34,7 +34,7 @@
   <project path="external/bluetooth/hcidump" name="platform/external/bluetooth/hcidump" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
   <project path="external/bsdiff" name="platform/external/bsdiff" />
-  <project path="external/busybox" name="aosp-gtablet/gtablet_android_external_busybox" remote="aosp-gtablet" />
+  <project path="external/busybox" name="aosp-gtablet/gtablet_android_external_busybox" remote="aosp-gtablet" revision="gingerbread" />
   <project path="external/bzip2" name="platform/external/bzip2" />
   <project path="external/chromium" name="platform/external/chromium" />
   <project path="external/clearsilver" name="platform/external/clearsilver" />
