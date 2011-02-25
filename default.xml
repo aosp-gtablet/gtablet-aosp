@@ -179,6 +179,6 @@
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="platform/system/vold" />
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
-  <project path="vendor/aosp" name="aosp-gtablet/gtablet_android_vendor_aosp" remote="aosp-gtablet"  />
+  <project path="vendor/aosp" name="aosp-gtablet/gtablet_android_vendor_aosp" remote="aosp-gtablet" revision="master" />
 
 </manifest>
