@@ -171,7 +171,7 @@
   <project path="packages/wallpapers/MagicSmoke" name="platform/packages/wallpapers/MagicSmoke" />
   <project path="packages/wallpapers/MusicVisualization" name="platform/packages/wallpapers/MusicVisualization" />
   <project path="prebuilt" name="platform/prebuilt" />
-  <project path="sdk" name="platform/sdk" revision="tools_r7" />
+  <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
   <project path="system/core" name="aosp-gtablet/gtablet_platform_system_core"  remote="aosp-gtablet" />
   <project path="system/extras" name="aosp-gtablet/gtablet_platform_system_extras"  remote="aosp-gtablet" />
