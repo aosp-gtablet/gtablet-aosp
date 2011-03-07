@@ -170,7 +170,7 @@
   <project path="packages/providers/MediaProvider" name="aosp-gtablet/gtablet_platform_packages_providers_mediaprovider" remote="aosp-gtablet"  />
   <project path="packages/providers/TelephonyProvider" name="platform/packages/providers/TelephonyProvider" />
   <project path="packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" />
-  <project path="packages/wallpapers/Basic" name="aosp-gtablet/gtablet_android_packages_wallpapers_Basic" remote="aosp-gtablet" revision="gingerbread" />
+  <project path="packages/wallpapers/Basic" name="aosp-gtablet/gtablet_packages_wallpapers_Basic" remote="aosp-gtablet" revision="gingerbread" />
   <project path="packages/wallpapers/LivePicker" name="platform/packages/wallpapers/LivePicker" />
   <project path="packages/wallpapers/MagicSmoke" name="platform/packages/wallpapers/MagicSmoke" />
   <project path="packages/wallpapers/MusicVisualization" name="platform/packages/wallpapers/MusicVisualization" />
