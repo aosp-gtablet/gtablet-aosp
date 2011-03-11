@@ -24,6 +24,7 @@
   <project path="dalvik" name="platform/dalvik" />
   <project path="development" name="platform/development" />
   <project path="device/nvidia/harmony" name="aosp-gtablet/gtablet_android_device_harmony" remote="aosp-gtablet" revision="gingerbread" />
+  <project path="device/bn/encore" name="aosp-gtablet/android_device_bn_encore" remote="aosp-gtablet" revision="gingerbread" />
   <project path="external/apache-http" name="platform/external/apache-http" />
   <project path="external/astl" name="platform/external/astl" />
   <project path="external/bash" name="aosp-gtablet/gtablet_android_external_bash" remote="aosp-gtablet" revision="gingerbread" />
