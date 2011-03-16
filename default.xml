@@ -10,9 +10,6 @@
 
   <remote  name="aosp-gtablet" fetch="git://github.com/" />
 
-  <remote  name="themes"
-           fetch="git://github.com/tmobile" />
-
   <default revision="master"
            remote="korg" />
 
@@ -190,11 +187,4 @@
   <project path="vendor/aosp" name="aosp-gtablet/gtablet_android_vendor_aosp" remote="aosp-gtablet" revision="master" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" />
 
-  <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="refs/heads/master" />
-  <project path="vendor/tmobile/libs/com.tmobile.themes" name="themes-platform-vendor-tmobile-libs-com.tmobile.themes" remote="themes" revision="refs/heads/master" />
-  <project path="vendor/tmobile/providers/ThemeManager" name="themes-platform-vendor-tmobile-providers-ThemeManager" remote="themes" revision="refs/heads/master" />
-  <project path="vendor/tmobile/themes/Androidian" name="themes-platform-vendor-tmobile-themes-Androidian" remote="themes" revision="refs/heads/master" />
-  <project path="vendor/tmobile/themes/Cyanbread" name="themes-platform-vendor-tmobile-themes-Cyanbread" remote="themes" revision="refs/heads/master" />
-  <project path="vendor/tmobile/products/themes" name="themes-platform-vendor-tmobile-products-themes" remote="themes" revision="refs/heads/master" />
-
-</manifest>
+ </manifest>
