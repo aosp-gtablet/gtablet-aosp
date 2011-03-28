@@ -22,7 +22,7 @@
   <project path="bootable/recovery" name="platform/bootable/recovery" />
   <project path="cts" name="platform/cts" />
   <project path="dalvik" name="platform/dalvik" />
-  <project path="development" name="platform/development" />
+  <project path="development" name="aosp-gtablet/gtablet_platform_development" remote="aosp-gtablet" />
   <project path="device/nvidia/harmony" name="aosp-gtablet/gtablet_android_device_harmony" remote="aosp-gtablet" revision="gingerbread" />
   <project path="device/bn/encore" name="aosp-gtablet/android_device_bn_encore" remote="aosp-gtablet" revision="gingerbread" />
   <project path="external/apache-http" name="platform/external/apache-http" />
