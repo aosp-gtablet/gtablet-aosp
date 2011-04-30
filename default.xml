@@ -26,6 +26,7 @@
   <project path="device/nvidia/harmony" name="aosp-gtablet/gtablet_android_device_harmony" remote="aosp-gtablet" revision="gingerbread" />
   <project path="device/bn/encore" name="aosp-gtablet/android_device_bn_encore" remote="aosp-gtablet" revision="gingerbread" />
   <project path="external/apache-http" name="platform/external/apache-http" />
+  <project path="external/apache-qp" name="platform/external/apache-qp" />
   <project path="external/astl" name="platform/external/astl" />
   <project path="external/bash" name="aosp-gtablet/gtablet_android_external_bash" remote="aosp-gtablet" revision="gingerbread" />
   <project path="external/bison" name="platform/external/bison" />
@@ -117,6 +118,7 @@
   <project path="external/zlib" name="platform/external/zlib" />
   <project path="frameworks/base" name="aosp-gtablet/gtablet_platform_frameworks_base"  remote="aosp-gtablet" />
   <project path="frameworks/ex" name="platform/frameworks/ex" />
+  <project path="frameworks/opt/carddav" name="platform/frameworks/opt/carddav" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
   <project path="hardware/libhardware" name="platform/hardware/libhardware" />
