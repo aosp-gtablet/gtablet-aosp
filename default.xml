@@ -24,7 +24,6 @@
   <project path="dalvik" name="platform/dalvik" />
   <project path="development" name="aosp-gtablet/gtablet_platform_development" remote="aosp-gtablet" />
   <project path="device/nvidia/harmony" name="aosp-gtablet/gtablet_android_device_harmony" remote="aosp-gtablet" revision="gingerbread" />
-  <project path="device/bn/encore" name="aosp-gtablet/android_device_bn_encore" remote="aosp-gtablet" revision="gingerbread" />
   <project path="external/apache-http" name="platform/external/apache-http" />
   <project path="external/apache-qp" name="platform/external/apache-qp" />
   <project path="external/astl" name="platform/external/astl" />
@@ -97,7 +96,7 @@
   <project path="external/qemu" name="platform/external/qemu" revision="tools_r7"/>
   <project path="external/quake" name="platform/external/quake" />
   <project path="external/safe-iop" name="platform/external/safe-iop" />
-  <project path="external/skia" name="platform/external/skia" />
+  <project path="external/skia" name="CyanogenMod/android_external_skia"  remote="github" revision="gingerbread" />
   <project path="external/sonivox" name="platform/external/sonivox" />
   <project path="external/speex" name="platform/external/speex" />
   <project path="external/sqlite" name="platform/external/sqlite" />
@@ -165,7 +164,7 @@
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" />
   <project path="packages/providers/ContactsProvider" name="platform/packages/providers/ContactsProvider" />
-  <project path="packages/providers/DownloadProvider" name="platform/packages/providers/DownloadProvider" />
+  <project path="packages/providers/DownloadProvider" name="aosp-gtablet/gtablet_platform_packages_providers_downloadprovider" remote="aosp-gtablet"  />
   <project path="packages/providers/DrmProvider" name="platform/packages/providers/DrmProvider" />
   <project path="packages/providers/GoogleContactsProvider" name="platform/packages/providers/GoogleContactsProvider" />
   <project path="packages/providers/MediaProvider" name="aosp-gtablet/gtablet_platform_packages_providers_mediaprovider" remote="aosp-gtablet"  />
