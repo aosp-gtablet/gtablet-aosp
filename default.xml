@@ -181,7 +181,7 @@
   <project path="system/extras" name="aosp-gtablet/gtablet_platform_system_extras"  remote="aosp-gtablet" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
-  <project path="system/vold" name="platform/system/vold" />
+  <project path="system/vold" name="CyanogenMod/android_system_vold" remote="github" revision="gingerbread" />
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
   <project path="vendor/aosp" name="aosp-gtablet/gtablet_android_vendor_aosp" remote="aosp-gtablet" revision="master" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" />
