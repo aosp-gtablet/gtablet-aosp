@@ -151,7 +151,7 @@
   <project path="packages/apps/Phone" name="platform/packages/apps/Phone" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
-  <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
+  <project path="packages/apps/QuickSearchBox" name="aosp-gtablet/gtablet_platform_packages_apps_quicksearchbox"  remote="aosp-gtablet" />
   <project path="packages/apps/Settings" name="aosp-gtablet/gtablet_platform_packages_apps_settings" remote="aosp-gtablet" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/Superuser" name="aosp-gtablet/gtablet_packages_apps_Superuser" remote="aosp-gtablet" />
