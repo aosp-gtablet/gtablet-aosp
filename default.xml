@@ -186,6 +186,8 @@
   <project path="vendor/aosp" name="aosp-gtablet/gtablet_android_vendor_aosp" remote="aosp-gtablet" revision="master" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" />
   <project path="external/flac" name="CyanogenMod/android_external_flac" remote="github" revision="gingerbread" />
+  <project path="external/webp" name="platform/external/webp" />
+
 
 
  </manifest>
