@@ -24,6 +24,7 @@
   <project path="dalvik" name="platform/dalvik" />
   <project path="development" name="aosp-gtablet/gtablet_platform_development" remote="aosp-gtablet" />
   <project path="device/nvidia/harmony" name="aosp-gtablet/gtablet_android_device_harmony" remote="aosp-gtablet" revision="gingerbread" />
+  <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/apache-http" name="platform/external/apache-http" />
   <project path="external/apache-qp" name="platform/external/apache-qp" />
   <project path="external/astl" name="platform/external/astl" />
@@ -74,10 +75,13 @@
   <project path="external/kernel-headers" name="platform/external/kernel-headers" />
   <project path="external/libffi" name="platform/external/libffi" />
   <project path="external/libgsm" name="platform/external/libgsm" />
+  <project path="external/libmtp" name="platform/external/libmtp" />
   <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" remote="github" revision="gingerbread" />
   <project path="external/libnfc-nxp" name="platform/external/libnfc-nxp" />
   <project path="external/libpcap" name="platform/external/libpcap" />
   <project path="external/libpng" name="platform/external/libpng" />
+  <project path="external/libusb" name="platform/external/libusb" />
+  <project path="external/libusb-compat" name="platform/external/libusb-compat" />
   <project path="external/libvpx" name="platform/external/libvpx" />
   <project path="external/libxml2" name="platform/external/libxml2" />
   <project path="external/libxslt" name="platform/external/libxslt" />
@@ -108,6 +112,7 @@
   <project path="external/tcpdump" name="platform/external/tcpdump" />
   <project path="external/tinyxml" name="platform/external/tinyxml" />
   <project path="external/tremolo" name="platform/external/tremolo" />
+  <project path="external/valgrind" name="platform/external/valgrind" />
   <project path="external/v8" name="platform/external/v8" />
   <project path="external/webkit" name="platform/external/webkit" />
   <project path="external/wpa_supplicant" name="platform/external/wpa_supplicant" />
@@ -153,6 +158,7 @@
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="aosp-gtablet/gtablet_platform_packages_apps_quicksearchbox"  remote="aosp-gtablet" />
   <project path="packages/apps/Settings" name="aosp-gtablet/gtablet_platform_packages_apps_settings" remote="aosp-gtablet" />
+  <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/Superuser" name="aosp-gtablet/gtablet_packages_apps_Superuser" remote="aosp-gtablet" />
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" />
